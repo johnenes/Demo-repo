@@ -2,11 +2,11 @@
 
 int main(){
 
-	int age  = 25;
-
 	printf("hello world");
+	int bthy =1993;
 
-	printf("\t I am age %d", age);
-
+	printf("\t I am age %d", bthy);
+	
 	return 0;
+
 }
